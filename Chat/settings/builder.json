@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.Chat",
+  "startScene": "495c5620-e361-4b21-abe9-746a82db7c82",
+  "title": "Chat",
+  "webOrientation": "auto"
+}
