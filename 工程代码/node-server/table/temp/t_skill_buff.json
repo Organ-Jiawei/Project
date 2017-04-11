@@ -1,0 +1,42 @@
+{
+	"1": {
+		"id": 1,
+		"buff_effect": 1,
+		"buff_active_cond": {},
+		"effect_para": { "1": 1, "3": 1 },
+		"buff_overlay_rule": 1,
+		"buff_clear_cond": { "2": 2 },
+		"buff_overlay_logic": 1,
+		"buff_effect_target": { "9": -1 }
+	},
+	"2": {
+		"id": 2,
+		"buff_effect": 1,
+		"buff_active_cond": {},
+		"effect_para": { "1": 1, "3": 1 },
+		"buff_overlay_rule": 1,
+		"buff_clear_cond": { "2": 2 },
+		"buff_overlay_logic": 1,
+		"buff_effect_target": { "9": -1 }
+	},
+	"3": {
+		"id": 3,
+		"buff_effect": 1,
+		"buff_active_cond": {},
+		"effect_para": { "1": 1, "3": 1 },
+		"buff_overlay_rule": 1,
+		"buff_clear_cond": { "2": 2 },
+		"buff_overlay_logic": 1,
+		"buff_effect_target": { "9": -1 }
+	},
+	"4": {
+		"id": 4,
+		"buff_effect": 1,
+		"buff_active_cond": {},
+		"effect_para": { "1": 1, "3": 1 },
+		"buff_overlay_rule": 1,
+		"buff_clear_cond": { "2": 2 },
+		"buff_overlay_logic": 1,
+		"buff_effect_target": { "9": -1 }
+	}
+}

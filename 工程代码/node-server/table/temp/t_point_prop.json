@@ -1,0 +1,47 @@
+{
+	"1": {
+		"id": 1,
+		"point": 1,
+		"attack": 10,
+		"spell": 0,
+		"attack_res": 0,
+		"spell_res": 0,
+		"life_point": 0
+	},
+	"2": {
+		"id": 2,
+		"point": 2,
+		"attack": 0,
+		"spell": 10,
+		"attack_res": 0,
+		"spell_res": 0,
+		"life_point": 0
+	},
+	"3": {
+		"id": 3,
+		"point": 3,
+		"attack": 0,
+		"spell": 0,
+		"attack_res": 5,
+		"spell_res": 0,
+		"life_point": 0
+	},
+	"4": {
+		"id": 4,
+		"point": 4,
+		"attack": 0,
+		"spell": 0,
+		"attack_res": 0,
+		"spell_res": 5,
+		"life_point": 0
+	},
+	"5": {
+		"id": 5,
+		"point": 5,
+		"attack": 0,
+		"spell": 0,
+		"attack_res": 0,
+		"spell_res": 0,
+		"life_point": 30
+	}
+}

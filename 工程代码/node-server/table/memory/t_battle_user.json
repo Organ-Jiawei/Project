@@ -1,0 +1,24 @@
+{
+	"1": {
+		"id": 1,
+		"battle_id": 1,
+		"user_id": "100984",
+		"hp": 146,
+		"hp_limit": 1000,
+		"discard": 1,
+		"have_cards": [],
+		"card_slots": [ -1, -1, -1, -1],
+		"hero_slots": [ -1, -1, 1, 2]
+	},
+	"2": {
+		"id": 2,
+		"battle_id": 1,
+		"user_id": "972870",
+		"hp": 0,
+		"hp_limit": 1000,
+		"discard": 0,
+		"have_cards": [],
+		"card_slots": [ -1, -1, -1, -1],
+		"hero_slots": [ 3, 4, -1, -1]
+	}
+}

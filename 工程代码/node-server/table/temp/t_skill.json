@@ -1,0 +1,37 @@
+{
+	"1": {
+		"id": 1,
+		"skill_type": 1,
+		"launch_energy": -1,
+		"skill_target": [],
+		"physics_value": [],
+		"magic_value": [],
+		"truth_value": [],
+		"effect_buff": [1]
+	},
+	"2": {
+		"id": 2,
+		"skill_type": 2,
+		"launch_energy": 15,
+		"skill_target": [
+			[1, -1]
+		],
+		"physics_value": [
+			[1, 300],
+			[2, 2000]
+		],
+		"magic_value": [],
+		"truth_value": [],
+		"effect_buff": [2]
+	},
+	"3": {
+		"id": 3,
+		"skill_type": 1,
+		"launch_energy": -1,
+		"skill_target": [],
+		"physics_value": [],
+		"magic_value": [],
+		"truth_value": [],
+		"effect_buff": [3]
+	}
+}

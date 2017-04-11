@@ -1,0 +1,122 @@
+{
+	"1": {
+		"hero_lv": 1,
+		"lvup_exp": 30
+	},
+	"2": {
+		"hero_lv": 2,
+		"lvup_exp": 45
+	},
+	"3": {
+		"hero_lv": 3,
+		"lvup_exp": 60
+	},
+	"4": {
+		"hero_lv": 4,
+		"lvup_exp": 75
+	},
+	"5": {
+		"hero_lv": 5,
+		"lvup_exp": 90
+	},
+	"6": {
+		"hero_lv": 6,
+		"lvup_exp": 105
+	},
+	"7": {
+		"hero_lv": 7,
+		"lvup_exp": 120
+	},
+	"8": {
+		"hero_lv": 8,
+		"lvup_exp": 135
+	},
+	"9": {
+		"hero_lv": 9,
+		"lvup_exp": 385
+	},
+	"10": {
+		"hero_lv": 10,
+		"lvup_exp": 400
+	},
+	"11": {
+		"hero_lv": 11,
+		"lvup_exp": 415
+	},
+	"12": {
+		"hero_lv": 12,
+		"lvup_exp": 430
+	},
+	"13": {
+		"hero_lv": 13,
+		"lvup_exp": 445
+	},
+	"14": {
+		"hero_lv": 14,
+		"lvup_exp": 460
+	},
+	"15": {
+		"hero_lv": 15,
+		"lvup_exp": 475
+	},
+	"16": {
+		"hero_lv": 16,
+		"lvup_exp": 490
+	},
+	"17": {
+		"hero_lv": 17,
+		"lvup_exp": 505
+	},
+	"18": {
+		"hero_lv": 18,
+		"lvup_exp": 520
+	},
+	"19": {
+		"hero_lv": 19,
+		"lvup_exp": 770
+	},
+	"20": {
+		"hero_lv": 20,
+		"lvup_exp": 785
+	},
+	"21": {
+		"hero_lv": 21,
+		"lvup_exp": 800
+	},
+	"22": {
+		"hero_lv": 22,
+		"lvup_exp": 815
+	},
+	"23": {
+		"hero_lv": 23,
+		"lvup_exp": 830
+	},
+	"24": {
+		"hero_lv": 24,
+		"lvup_exp": 859
+	},
+	"25": {
+		"hero_lv": 25,
+		"lvup_exp": 888
+	},
+	"26": {
+		"hero_lv": 26,
+		"lvup_exp": 917
+	},
+	"27": {
+		"hero_lv": 27,
+		"lvup_exp": 947
+	},
+	"28": {
+		"hero_lv": 28,
+		"lvup_exp": 977
+	},
+	"29": {
+		"hero_lv": 29,
+		"lvup_exp": 1227
+	},
+	"30": {
+		"hero_lv": 30,
+		"lvup_exp": 0
+	}
+}

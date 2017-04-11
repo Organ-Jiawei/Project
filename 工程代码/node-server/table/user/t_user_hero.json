@@ -1,0 +1,58 @@
+{
+	"1": {
+		"user_id": "100984",
+		"hero_id": 1,
+		"level": 10,
+		"hero_skill": 0,
+		"hero_add_prop": [20, 10, 5, 5, 0]
+	},
+	"2": {
+		"user_id": "100984",
+		"hero_id": 3,
+		"level": 10,
+		"hero_skill": 0,
+		"hero_add_prop": [20, 10, 5, 5, 0]
+	},
+	"3": {
+		"user_id": "100984",
+		"hero_id": 2,
+		"level": 10,
+		"hero_skill": 0,
+		"hero_add_prop": [20, 10, 5, 5, 0]
+	},
+	"4": {
+		"user_id": "100984",
+		"hero_id": 1,
+		"level": 10,
+		"hero_skill": 0,
+		"hero_add_prop": [20, 10, 5, 5, 0]
+	},
+	"5": {
+		"user_id": "972870",
+		"hero_id": 2,
+		"level": 10,
+		"hero_skill": 0,
+		"hero_add_prop": [20, 10, 5, 5, 0]
+	},
+	"6": {
+		"user_id": "972870",
+		"hero_id": 3,
+		"level": 10,
+		"hero_skill": 0,
+		"hero_add_prop": [20, 10, 5, 5, 0]
+	},
+	"7": {
+		"user_id": "972870",
+		"hero_id": 1,
+		"level": 10,
+		"hero_skill": 0,
+		"hero_add_prop": [20, 10, 5, 5, 0]
+	},
+	"8": {
+		"user_id": "972870",
+		"hero_id": 2,
+		"level": 10,
+		"hero_skill": 0,
+		"hero_add_prop": [20, 10, 5, 5, 0]
+	}
+}
